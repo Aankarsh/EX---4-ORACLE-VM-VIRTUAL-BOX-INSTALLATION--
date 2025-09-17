@@ -1,6 +1,7 @@
-# EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-## NAME : AANKARSH J
-## REG : 212223233001
+# EX---2-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+
+## NAME : AANKARSH
+## REG.NO : 212223233001
 # Virtualization
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
@@ -56,8 +57,6 @@ Step 1: Download Kali Linux ISO
 Step 2: Open Oracle VM VirtualBox
 
 1.Launch VirtualBox on your computer.
-
-<img width="1920" height="1080" alt="Screenshot 2025-08-24 173912" src="https://github.com/user-attachments/assets/de65a5b1-255b-4d41-a7b2-a37b8eb7ca4e" />
 
 Step 3: Create a New Virtual Machine
 
@@ -192,12 +191,12 @@ Step 9: Configure Kali Linux ISO
 Step 10: Start the Virtual Machine
 
 In VirtualBox, click Start to boot up your Kali Linux virtual machine
-<img width="1920" height="1080" alt="Screenshot 2025-08-24 174421" src="https://github.com/user-attachments/assets/392bd6ad-e994-499b-8b37-86417c8986c3" />
 
 Step 11: Begin Kali Linux Installation
 
 1.The VM will now boot from the ISO. You’ll see a boot menu.  Select Graphical Install and press Enter.
-<img width="1920" height="1080" alt="Screenshot 2025-08-24 174436" src="https://github.com/user-attachments/assets/88739d78-5006-4754-a97c-302fe00f7c74" />
+<img width="1918" height="1017" alt="376934783-89a1a065-b8e2-4a6c-b3ab-ea4d64814d0c" src="https://github.com/user-attachments/assets/93240651-454c-4c04-aad9-89594b19959a" />
+
 
 Step 12: Select Language and Region
 
@@ -254,15 +253,17 @@ Step 19: Login to Kali Linux
 .sh method
 
 ## PROGRAM
-<img width="955" height="925" alt="VirtualBox_kalilinux_24_08_2025_17_59_23" src="https://github.com/user-attachments/assets/adb895d6-2628-4fa2-aa55-52e15ae3784f" />
+
+<img width="521" height="330" alt="Screenshot 2025-09-01 111130" src="https://github.com/user-attachments/assets/bb0d77fb-b9d7-4e15-8e9d-38cd50301639" />
+<img width="786" height="382" alt="Screenshot 2025-09-01 111233" src="https://github.com/user-attachments/assets/8a205c53-5dd8-4d51-a9a9-211cc91ae6a1" />
+
 
 ## Expected and terminal output:
-<img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_14_33" src="https://github.com/user-attachments/assets/3b9390f4-05d3-462f-ac7a-a2bc94ffc587" />
-
-<img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_03_53" src="https://github.com/user-attachments/assets/8a357197-dae0-49da-b4ed-2fdfb2ce1b31" />
+<img width="714" height="294" alt="Screenshot 2025-09-01 110215" src="https://github.com/user-attachments/assets/ff192786-bc64-4924-917f-f2e04261b243" />
+<img width="843" height="433" alt="Screenshot 2025-09-01 110030" src="https://github.com/user-attachments/assets/95f68cd4-4664-409b-aa69-9ab3aaca7e06" />
 
 ## Linux Commands:
-<img width="1920" height="937" alt="VirtualBox_kalilinux_24_08_2025_18_11_39" src="https://github.com/user-attachments/assets/3c0c1037-394b-4fde-8670-ab22c351ebd1" />
+<img width="1107" height="551" alt="Screenshot 2025-09-01 105952" src="https://github.com/user-attachments/assets/047ce7e9-45c0-49a6-9e62-aa52303dcd7f" />
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
